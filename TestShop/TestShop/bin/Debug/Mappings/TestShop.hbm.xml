@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" auto-import="true" namespace="TestShop.Model" assembly="TestShop">
+
+  <class name="TestShop.Model.ВидТовара" table="public.ВидТовара"  xmlns="urn:nhibernate-mapping-2.2">
+    <id name="Id" column="id" type="long">
+      <generator class="identity"/>
+    </id>
+    <property name="Наименование" column="Наименование" type="String"/>
+  </class>
+
+</hibernate-mapping>
