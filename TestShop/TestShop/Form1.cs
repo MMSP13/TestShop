@@ -25,5 +25,10 @@ namespace TestShop
             видТовара.Наименование = "Перчатки";
             DBService.Save(видТовара);
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

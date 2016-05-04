@@ -13,3 +13,6 @@ c:\users\александр\documents\visual studio 2015\Projects\TestShop\TestS
 c:\users\александр\documents\visual studio 2015\Projects\TestShop\TestShop\obj\Debug\TestShop.pdb
 c:\users\александр\documents\visual studio 2015\Projects\TestShop\TestShop\bin\Debug\hibernate.cfg.xml
 c:\users\александр\documents\visual studio 2015\Projects\TestShop\TestShop\bin\Debug\Mappings\TestShop.hbm.xml
+C:\git_test\TestShop\TestShop\bin\Debug\TestShop.exe.config
+C:\git_test\TestShop\TestShop\obj\Debug\TestShop.exe
+C:\git_test\TestShop\TestShop\obj\Debug\TestShop.pdb
